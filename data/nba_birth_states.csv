@@ -1,0 +1,460 @@
+state,type,count
+AL,Total Players,80
+AK,Total Players,1
+AZ,Total Players,12
+AR,Total Players,45
+CA,Total Players,358
+CO,Total Players,17
+CT,Total Players,31
+DE,Total Players,6
+DC,Total Players,68
+FL,Total Players,99
+GA,Total Players,115
+HI,Total Players,2
+ID,Total Players,4
+IL,Total Players,220
+IN,Total Players,114
+IA,Total Players,20
+KS,Total Players,31
+KY,Total Players,93
+LA,Total Players,106
+ME,Total Players,1
+MD,Total Players,59
+MA,Total Players,36
+MI,Total Players,135
+MN,Total Players,44
+MS,Total Players,85
+MO,Total Players,51
+MT,Total Players,9
+NE,Total Players,12
+NV,Total Players,7
+NH,Total Players,1
+NJ,Total Players,103
+NM,Total Players,7
+NY,Total Players,311
+NC,Total Players,109
+ND,Total Players,6
+OH,Total Players,153
+OK,Total Players,34
+OR,Total Players,25
+PA,Total Players,178
+RI,Total Players,7
+SC,Total Players,35
+SD,Total Players,5
+TN,Total Players,78
+TX,Total Players,142
+UT,Total Players,20
+VT,Total Players,0
+VA,Total Players,67
+WA,Total Players,52
+WV,Total Players,24
+WI,Total Players,46
+WY,Total Players,6
+AL,Total Hall of Famers,1
+AK,Total Hall of Famers,0
+AZ,Total Hall of Famers,0
+AR,Total Hall of Famers,2
+CA,Total Hall of Famers,11
+CO,Total Hall of Famers,0
+CT,Total Hall of Famers,1
+DE,Total Hall of Famers,0
+DC,Total Hall of Famers,4
+FL,Total Hall of Famers,3
+GA,Total Hall of Famers,1
+HI,Total Hall of Famers,0
+ID,Total Hall of Famers,0
+IL,Total Hall of Famers,6
+IN,Total Hall of Famers,3
+IA,Total Hall of Famers,0
+KS,Total Hall of Famers,0
+KY,Total Hall of Famers,6
+LA,Total Hall of Famers,8
+ME,Total Hall of Famers,0
+MD,Total Hall of Famers,0
+MA,Total Hall of Famers,0
+MI,Total Hall of Famers,5
+MN,Total Hall of Famers,1
+MS,Total Hall of Famers,2
+MO,Total Hall of Famers,3
+MT,Total Hall of Famers,1
+NE,Total Hall of Famers,0
+NV,Total Hall of Famers,0
+NH,Total Hall of Famers,0
+NJ,Total Hall of Famers,3
+NM,Total Hall of Famers,0
+NY,Total Hall of Famers,22
+NC,Total Hall of Famers,5
+ND,Total Hall of Famers,0
+OH,Total Hall of Famers,6
+OK,Total Hall of Famers,0
+OR,Total Hall of Famers,0
+PA,Total Hall of Famers,10
+RI,Total Hall of Famers,0
+SC,Total Hall of Famers,1
+SD,Total Hall of Famers,0
+TN,Total Hall of Famers,2
+TX,Total Hall of Famers,3
+UT,Total Hall of Famers,0
+VT,Total Hall of Famers,0
+VA,Total Hall of Famers,3
+WA,Total Hall of Famers,1
+WV,Total Hall of Famers,2
+WI,Total Hall of Famers,0
+WY,Total Hall of Famers,0
+AL,Proportion of Players,2.44648318042813
+AK,Proportion of Players,0.0305810397553517
+AZ,Proportion of Players,0.36697247706422
+AR,Proportion of Players,1.37614678899083
+CA,Proportion of Players,10.9480122324159
+CO,Proportion of Players,0.519877675840979
+CT,Proportion of Players,0.948012232415902
+DE,Proportion of Players,0.18348623853211
+DC,Proportion of Players,2.07951070336391
+FL,Proportion of Players,3.02752293577982
+GA,Proportion of Players,3.51681957186544
+HI,Proportion of Players,0.0611620795107034
+ID,Proportion of Players,0.122324159021407
+IL,Proportion of Players,6.72782874617737
+IN,Proportion of Players,3.48623853211009
+IA,Proportion of Players,0.611620795107034
+KS,Proportion of Players,0.948012232415902
+KY,Proportion of Players,2.84403669724771
+LA,Proportion of Players,3.24159021406728
+ME,Proportion of Players,0.0305810397553517
+MD,Proportion of Players,1.80428134556575
+MA,Proportion of Players,1.10091743119266
+MI,Proportion of Players,4.12844036697248
+MN,Proportion of Players,1.34556574923547
+MS,Proportion of Players,2.59938837920489
+MO,Proportion of Players,1.55963302752294
+MT,Proportion of Players,0.275229357798165
+NE,Proportion of Players,0.36697247706422
+NV,Proportion of Players,0.214067278287462
+NH,Proportion of Players,0.0305810397553517
+NJ,Proportion of Players,3.14984709480122
+NM,Proportion of Players,0.214067278287462
+NY,Proportion of Players,9.51070336391437
+NC,Proportion of Players,3.33333333333333
+ND,Proportion of Players,0.18348623853211
+OH,Proportion of Players,4.67889908256881
+OK,Proportion of Players,1.03975535168196
+OR,Proportion of Players,0.764525993883792
+PA,Proportion of Players,5.4434250764526
+RI,Proportion of Players,0.214067278287462
+SC,Proportion of Players,1.07033639143731
+SD,Proportion of Players,0.152905198776758
+TN,Proportion of Players,2.38532110091743
+TX,Proportion of Players,4.34250764525994
+UT,Proportion of Players,0.611620795107034
+VT,Proportion of Players,0
+VA,Proportion of Players,2.04892966360856
+WA,Proportion of Players,1.59021406727829
+WV,Proportion of Players,0.73394495412844
+WI,Proportion of Players,1.40672782874618
+WY,Proportion of Players,0.18348623853211
+AL,Proportion of Hall of Famers,0.862068965517241
+AK,Proportion of Hall of Famers,0
+AZ,Proportion of Hall of Famers,0
+AR,Proportion of Hall of Famers,1.72413793103448
+CA,Proportion of Hall of Famers,9.48275862068965
+CO,Proportion of Hall of Famers,0
+CT,Proportion of Hall of Famers,0.862068965517241
+DE,Proportion of Hall of Famers,0
+DC,Proportion of Hall of Famers,3.44827586206897
+FL,Proportion of Hall of Famers,2.58620689655172
+GA,Proportion of Hall of Famers,0.862068965517241
+HI,Proportion of Hall of Famers,0
+ID,Proportion of Hall of Famers,0
+IL,Proportion of Hall of Famers,5.17241379310345
+IN,Proportion of Hall of Famers,2.58620689655172
+IA,Proportion of Hall of Famers,0
+KS,Proportion of Hall of Famers,0
+KY,Proportion of Hall of Famers,5.17241379310345
+LA,Proportion of Hall of Famers,6.89655172413793
+ME,Proportion of Hall of Famers,0
+MD,Proportion of Hall of Famers,0
+MA,Proportion of Hall of Famers,0
+MI,Proportion of Hall of Famers,4.31034482758621
+MN,Proportion of Hall of Famers,0.862068965517241
+MS,Proportion of Hall of Famers,1.72413793103448
+MO,Proportion of Hall of Famers,2.58620689655172
+MT,Proportion of Hall of Famers,0.862068965517241
+NE,Proportion of Hall of Famers,0
+NV,Proportion of Hall of Famers,0
+NH,Proportion of Hall of Famers,0
+NJ,Proportion of Hall of Famers,2.58620689655172
+NM,Proportion of Hall of Famers,0
+NY,Proportion of Hall of Famers,18.9655172413793
+NC,Proportion of Hall of Famers,4.31034482758621
+ND,Proportion of Hall of Famers,0
+OH,Proportion of Hall of Famers,5.17241379310345
+OK,Proportion of Hall of Famers,0
+OR,Proportion of Hall of Famers,0
+PA,Proportion of Hall of Famers,8.62068965517241
+RI,Proportion of Hall of Famers,0
+SC,Proportion of Hall of Famers,0.862068965517241
+SD,Proportion of Hall of Famers,0
+TN,Proportion of Hall of Famers,1.72413793103448
+TX,Proportion of Hall of Famers,2.58620689655172
+UT,Proportion of Hall of Famers,0
+VT,Proportion of Hall of Famers,0
+VA,Proportion of Hall of Famers,2.58620689655172
+WA,Proportion of Hall of Famers,0.862068965517241
+WV,Proportion of Hall of Famers,1.72413793103448
+WI,Proportion of Hall of Famers,0
+WY,Proportion of Hall of Famers,0
+AL,Hall of Famer to Player Ratio,0.352370689655172
+AK,Hall of Famer to Player Ratio,0
+AZ,Hall of Famer to Player Ratio,0
+AR,Hall of Famer to Player Ratio,1.25287356321839
+CA,Hall of Famer to Player Ratio,0.866162589096513
+CO,Hall of Famer to Player Ratio,0
+CT,Hall of Famer to Player Ratio,0.909343715239155
+DE,Hall of Famer to Player Ratio,0
+DC,Hall of Famer to Player Ratio,1.65821501014199
+FL,Hall of Famer to Player Ratio,0.85423197492163
+GA,Hall of Famer to Player Ratio,0.245127436281859
+HI,Hall of Famer to Player Ratio,0
+ID,Hall of Famer to Player Ratio,0
+IL,Hall of Famer to Player Ratio,0.768808777429467
+IN,Hall of Famer to Player Ratio,0.741833030852994
+IA,Hall of Famer to Player Ratio,0
+KS,Hall of Famer to Player Ratio,0
+KY,Hall of Famer to Player Ratio,1.81868743047831
+LA,Hall of Famer to Player Ratio,2.12752114508783
+ME,Hall of Famer to Player Ratio,0
+MD,Hall of Famer to Player Ratio,0
+MA,Hall of Famer to Player Ratio,0
+MI,Hall of Famer to Player Ratio,1.04406130268199
+MN,Hall of Famer to Player Ratio,0.640673981191223
+MS,Hall of Famer to Player Ratio,0.663286004056795
+MO,Hall of Famer to Player Ratio,1.65821501014199
+MT,Hall of Famer to Player Ratio,3.13218390804598
+NE,Hall of Famer to Player Ratio,0
+NV,Hall of Famer to Player Ratio,0
+NH,Hall of Famer to Player Ratio,0
+NJ,Hall of Famer to Player Ratio,0.82105791764312
+NM,Hall of Famer to Player Ratio,0
+NY,Hall of Famer to Player Ratio,1.99412351701962
+NC,Hall of Famer to Player Ratio,1.29310344827586
+ND,Hall of Famer to Player Ratio,0
+OH,Hall of Famer to Player Ratio,1.10547667342799
+OK,Hall of Famer to Player Ratio,0
+OR,Hall of Famer to Player Ratio,0
+PA,Hall of Famer to Player Ratio,1.58368849283224
+RI,Hall of Famer to Player Ratio,0
+SC,Hall of Famer to Player Ratio,0.805418719211823
+SD,Hall of Famer to Player Ratio,0
+TN,Hall of Famer to Player Ratio,0.722811671087533
+TX,Hall of Famer to Player Ratio,0.595556095191841
+UT,Hall of Famer to Player Ratio,0
+VT,Hall of Famer to Player Ratio,NaN
+VA,Hall of Famer to Player Ratio,1.26222336592898
+WA,Hall of Famer to Player Ratio,0.54210875331565
+WV,Hall of Famer to Player Ratio,2.34913793103448
+WI,Hall of Famer to Player Ratio,0
+WY,Hall of Famer to Player Ratio,0
+AL,2014 State Population Millions,4.849377
+AK,2014 State Population Millions,0.736732
+AZ,2014 State Population Millions,6.731484
+AR,2014 State Population Millions,2.966369
+CA,2014 State Population Millions,38.8025
+CO,2014 State Population Millions,5.355866
+CT,2014 State Population Millions,3.596677
+DE,2014 State Population Millions,0.935614
+DC,2014 State Population Millions,0.658893
+FL,2014 State Population Millions,19.893297
+GA,2014 State Population Millions,10.097343
+HI,2014 State Population Millions,1.419561
+ID,2014 State Population Millions,1.634464
+IL,2014 State Population Millions,12.88058
+IN,2014 State Population Millions,6.596855
+IA,2014 State Population Millions,3.107126
+KS,2014 State Population Millions,2.904021
+KY,2014 State Population Millions,4.413457
+LA,2014 State Population Millions,4.649676
+ME,2014 State Population Millions,1.330089
+MD,2014 State Population Millions,5.976407
+MA,2014 State Population Millions,6.745408
+MI,2014 State Population Millions,9.909877
+MN,2014 State Population Millions,5.457173
+MS,2014 State Population Millions,2.994079
+MO,2014 State Population Millions,6.063589
+MT,2014 State Population Millions,1.023579
+NE,2014 State Population Millions,1.881503
+NV,2014 State Population Millions,2.839099
+NH,2014 State Population Millions,1.326813
+NJ,2014 State Population Millions,8.938175
+NM,2014 State Population Millions,2.085572
+NY,2014 State Population Millions,19.746227
+NC,2014 State Population Millions,9.943964
+ND,2014 State Population Millions,0.739482
+OH,2014 State Population Millions,11.594163
+OK,2014 State Population Millions,3.878051
+OR,2014 State Population Millions,3.970239
+PA,2014 State Population Millions,12.787209
+RI,2014 State Population Millions,1.055173
+SC,2014 State Population Millions,4.832482
+SD,2014 State Population Millions,0.853175
+TN,2014 State Population Millions,6.549352
+TX,2014 State Population Millions,26.956958
+UT,2014 State Population Millions,2.942902
+VT,2014 State Population Millions,0.626562
+VA,2014 State Population Millions,8.326289
+WA,2014 State Population Millions,7.06153
+WV,2014 State Population Millions,1.850326
+WI,2014 State Population Millions,5.757564
+WY,2014 State Population Millions,0.584153
+AL,Proportion of U.S. Population,1.52086237665068
+AK,Proportion of U.S. Population,0.231054005591772
+AZ,Proportion of U.S. Population,2.11112906969824
+AR,Proportion of U.S. Population,0.930313111841564
+CA,Proportion of U.S. Population,12.1692461464613
+CO,Proportion of U.S. Population,1.67970753640779
+CT,Proportion of U.S. Population,1.12799040583251
+DE,Proportion of U.S. Population,0.293427409679151
+DC,Proportion of U.S. Population,0.206642126182085
+FL,Proportion of U.S. Population,6.2389389306787
+GA,Proportion of U.S. Population,3.16673029810574
+HI,Proportion of U.S. Population,0.445202943854565
+ID,Proportion of U.S. Population,0.512600856479086
+IL,Proportion of U.S. Population,4.03960952333449
+IN,Proportion of U.S. Population,2.06890670156598
+IA,Proportion of U.S. Population,0.974457344296624
+KS,Proportion of U.S. Population,0.910759522285748
+KY,Proportion of U.S. Population,1.38414907776104
+LA,Proportion of U.S. Population,1.45823211765463
+ME,Proportion of U.S. Population,0.417142721157157
+MD,Proportion of U.S. Population,1.87432170232419
+MA,Proportion of U.S. Population,2.11549591676591
+MI,Proportion of U.S. Population,3.10793718173199
+MN,Proportion of U.S. Population,1.71147945366465
+MS,Proportion of U.S. Population,0.939003526395226
+MO,Proportion of U.S. Population,1.90166373486181
+MT,Proportion of U.S. Population,0.321015006799787
+NE,Proportion of U.S. Population,0.59007726647266
+NV,Proportion of U.S. Population,0.890398674445517
+NH,Proportion of U.S. Population,0.416115301522448
+NJ,Proportion of U.S. Population,2.80319184782287
+NM,Proportion of U.S. Population,0.654077418314996
+NY,Proportion of U.S. Population,6.19281481417178
+NC,Proportion of U.S. Population,3.11862755202758
+ND,Proportion of U.S. Population,0.231916461023839
+OH,Proportion of U.S. Population,3.63616322167887
+OK,Proportion of U.S. Population,1.21623496392064
+OR,Proportion of U.S. Population,1.24514697896477
+PA,Proportion of U.S. Population,4.01032649564449
+RI,Proportion of U.S. Population,0.330923522043683
+SC,Proportion of U.S. Population,1.51556376409622
+SD,Proportion of U.S. Population,0.267572877546734
+TN,Proportion of U.S. Population,2.05400880324254
+TX,Proportion of U.S. Population,8.45424540330699
+UT,Proportion of U.S. Population,0.922953387614543
+VT,Proportion of U.S. Population,0.196502472882394
+VA,Proportion of U.S. Population,2.6112920643663
+WA,Proportion of U.S. Population,2.21463814807347
+WV,Proportion of U.S. Population,0.580299530834281
+WI,Proportion of U.S. Population,1.80568812628064
+WY,Proportion of U.S. Population,0.183202155639297
+AL,Player to Population Ratio,1.60861575510593
+AK,Player to Population Ratio,0.132354510267104
+AZ,Player to Population Ratio,0.173827589384042
+AR,Player to Population Ratio,1.47922970392917
+CA,Player to Population Ratio,0.899645886084691
+CO,Player to Population Ratio,0.309504877826997
+CT,Player to Population Ratio,0.840443524620427
+DE,Player to Population Ratio,0.6253207181045
+DC,Player to Population Ratio,10.0633435291482
+FL,Player to Population Ratio,0.485262473221623
+GA,Player to Population Ratio,1.1105522860501
+HI,Player to Population Ratio,0.137380222559093
+ID,Player to Population Ratio,0.238634324299841
+IL,Player to Population Ratio,1.66546511669373
+IN,Player to Population Ratio,1.6850631927826
+IA,Player to Population Ratio,0.627652712236993
+KS,Player to Population Ratio,1.04090290490366
+KY,Player to Population Ratio,2.05471848584991
+LA,Player to Population Ratio,2.22295900276901
+ME,Player to Population Ratio,0.0733107356410766
+MD,Player to Population Ratio,0.962631624725045
+MA,Player to Population Ratio,0.520406313464173
+MI,Player to Population Ratio,1.32835386482032
+MN,Player to Population Ratio,0.78620035218905
+MS,Player to Population Ratio,2.76824133896896
+MO,Player to Population Ratio,0.820141331472714
+MT,Player to Population Ratio,0.85737224730376
+NE,Player to Population Ratio,0.621905804400656
+NV,Player to Population Ratio,0.24041733712235
+NH,Player to Population Ratio,0.0734917453010364
+NJ,Player to Population Ratio,1.12366447456944
+NM,Player to Population Ratio,0.327281254929932
+NY,Player to Population Ratio,1.53576421212368
+NC,Player to Population Ratio,1.0688462401245
+ND,Player to Population Ratio,0.791173846487979
+OH,Player to Population Ratio,1.28676816669646
+OK,Player to Population Ratio,0.854896777782328
+OR,Player to Population Ratio,0.61400461696452
+PA,Player to Population Ratio,1.35735209648505
+RI,Player to Population Ratio,0.646878399472625
+SC,Player to Population Ratio,0.706229864287883
+SD,Player to Population Ratio,0.571452533525384
+TN,Player to Population Ratio,1.16130032994594
+TX,Player to Population Ratio,0.513648165874308
+UT,Player to Population Ratio,0.66267788093592
+VT,Player to Population Ratio,0
+VA,Player to Population Ratio,0.784642090238877
+WA,Player to Population Ratio,0.718046904710651
+WV,Player to Population Ratio,1.26476916683573
+WI,Player to Population Ratio,0.779053596394722
+WY,Player to Population Ratio,1.00155065256641
+AL,Hall of Famer to Population Ratio,0.566829043016852
+AK,Hall of Famer to Population Ratio,0
+AZ,Hall of Famer to Population Ratio,0
+AR,Hall of Famer to Population Ratio,1.85328778998023
+CA,Hall of Famer to Population Ratio,0.779239609961143
+CO,Hall of Famer to Population Ratio,0
+CT,Hall of Famer to Population Ratio,0.764252037127029
+DE,Hall of Famer to Population Ratio,0
+DC,Hall of Famer to Population Ratio,16.6871872922489
+FL,Hall of Famer to Population Ratio,0.414526720855462
+GA,Hall of Famer to Population Ratio,0.272226834736418
+HI,Hall of Famer to Population Ratio,0
+ID,Hall of Famer to Population Ratio,0
+IL,Hall of Famer to Population Ratio,1.28042420021673
+IN,Hall of Famer to Population Ratio,1.25003553548074
+IA,Hall of Famer to Population Ratio,0
+KS,Hall of Famer to Population Ratio,0
+KY,Hall of Famer to Population Ratio,3.73689068338665
+LA,Hall of Famer to Population Ratio,4.72939228305444
+ME,Hall of Famer to Population Ratio,0
+MD,Hall of Famer to Population Ratio,0
+MA,Hall of Famer to Population Ratio,0
+MI,Hall of Famer to Population Ratio,1.38688286652697
+MN,Hall of Famer to Population Ratio,0.5036981096509
+MS,Hall of Famer to Population Ratio,1.83613573598955
+MO,Hall of Famer to Population Ratio,1.35997066628589
+MT,Hall of Famer to Population Ratio,2.68544755621005
+NE,Hall of Famer to Population Ratio,0
+NV,Hall of Famer to Population Ratio,0
+NH,Hall of Famer to Population Ratio,0
+NJ,Hall of Famer to Population Ratio,0.922593613619536
+NM,Hall of Famer to Population Ratio,0
+NY,Hall of Famer to Population Ratio,3.06250353199295
+NC,Hall of Famer to Population Ratio,1.38212875878167
+ND,Hall of Famer to Population Ratio,0
+OH,Hall of Famer to Population Ratio,1.42249219239264
+OK,Hall of Famer to Population Ratio,0
+OR,Hall of Famer to Population Ratio,0
+PA,Hall of Famer to Population Ratio,2.14962289592509
+RI,Hall of Famer to Population Ratio,0
+SC,Hall of Famer to Population Ratio,0.568810752763886
+SD,Hall of Famer to Population Ratio,0
+TN,Hall of Famer to Population Ratio,0.839401432122729
+TX,Hall of Famer to Population Ratio,0.305906295970554
+UT,Hall of Famer to Population Ratio,0
+VT,Hall of Famer to Population Ratio,0
+VA,Hall of Famer to Population Ratio,0.990393580190862
+WA,Hall of Famer to Population Ratio,0.389259512334853
+WV,Hall of Famer to Population Ratio,2.9711172238167
+WI,Hall of Famer to Population Ratio,0
+WY,Hall of Famer to Population Ratio,0
