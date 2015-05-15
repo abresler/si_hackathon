@@ -1,12 +1,36 @@
 ---
-title: <span class="fragment roll-in">I Am <strong><font color = 'red'>Angus</font></strong></span><br><span class="fragment roll-in"><strong><font color = 'red'>Are</font> You?</span></strong>
+title: <span class="fragment roll-in">We Are <strong><font color = 'red'>Angus</font></strong></span>
 author: <span class="fragment roll-in">Alex Bresler</span>
 date: <small><span class="fragment roll-in"><font color = 'red'>Sports Illustrated</font> Hackathon </span><span class="fragment roll-in">May 16, 2015</span></small>
-output:
-  revealjs::revealjs_presentation:
-    transition: slide
-    highlight: monochrome
-    self_contained: false
+revealjs:
+  theme: simple
+  fig_width: 10
+  fig_height: 8
+  transition: zoom
+  center: "true"
+widgets     : [mathjax]            # {mathjax, bootstrap, quiz}
+mode        : selfcontained
+hitheme : zenburn    # {tomorrow, tomorrow_night, solarized_dark, solarized_light}
+highlighter : prettify.js  # {highlight.js, prettify, highlight}
+bootstrap:
+  theme: amelia
+navbar:
+  title: Slidify
+  items: 
+    - {item: Home, href: index,  icon: home}
+    - {item: "Start", href: start, icon: signin}
+    - {item: Author, href: about, icon: pencil}
+    - {item: Style, href: style, icon: hand-right, class: dropdown, 
+        dropdown: true, menu: [
+         {item: io2012, href: 'samples/intro'},
+         {item: deck.js, href: 'samples/deck.js'},
+         {item: shower, href: 'samples/shower'},
+         {item: landslide, href: 'samples/landslide'}
+        ]
+      }
+    - {item: Customize, href: customize, icon: gift}
+    - {item: Extend, href: extend, icon: cogs}
+    - {item: Publish, href: publish, icon: github}
     
 ---
 
@@ -74,7 +98,7 @@ Who was this McGyver guy?
 macgyver_me()
 ```
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-1.png) 
+![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2-1.png) 
 
 ## Great Escape
 
@@ -136,10 +160,25 @@ macgyver_me()
 <iframe  class = 'fragment roll-in' width="700" height="600" src="statebins/index.html" frameborder="0" allowfullscreen></iframe>
 
 
-##<small>To Show the Evolution of NFL Lineman</small>
-
-##<small>One More</small>
-
-# Conclusion
+##<small>NFL O-Line Evolution</small>
 
 
+
+
+```r
+tufte_lineman()
+```
+
+```
+## Error in annotate("segment", x = 1954, xend = 1950, y = 310, yend = 320, : unused arguments (x = 1954, xend = 1950, y = 310, yend = 320, colour = "firebrick3")
+```
+
+##<small><font color = "gold">The</font><font color = "blue"> Dress...</font></small>
+
+
+
+```r
+what_color_really()
+```
+
+![plot of chunk unnamed-chunk-6](assets/fig/unnamed-chunk-6-1.png) 
