@@ -1,6 +1,6 @@
 ---
 title: <span class="fragment roll-in">We Are <strong><font color = 'red'>Angus</font></strong></span>
-author: <span class="fragment roll-in">Alex Bresler</span>
+author: <span class="fragment roll-in"><a href = "https://twitter.com/abresler" target ="_blank">Alex Bresler</a></span>
 date: <small><span class="fragment roll-in"><br><font color = 'red'>Sports Illustrated</font> Hackathon </span><span class="fragment roll-in">May 16, 2015</span></small>
 output:
   revealjs::revealjs_presentation:
@@ -47,14 +47,14 @@ output:
 <li class="fragment roll-in">Is <strong><font color = 'blue'>Extremely Resourceful</font></strong></li>
 <li class="fragment roll-in">Understands <strong><font color = 'blue'>What People Want</font></strong></li>
 <li class="fragment roll-in">Can <strong><font color = 'blue'>See What Others May Not</font></strong></li>
-<li class="fragment roll-in"><strong><font color = 'blue'><p class = "fragment grow">Can Turn What We Have </font><font color = 'red'>Into What We Need</font></p></strong></li>
+<li class="fragment roll-in"><strong><font color = 'blue'><p class = "fragment grow">Can Turn What We Have (or know how to find) </font><font color = 'red'>Into What We Need</font></p></strong></li>
 </ul>
 
 ## <small>Our SAK {Swiss Army Knife}</small>
 
 <img class = "fragment roll-in" src = "images/ds_mcGuyver.svg">
 
-## Mac Hacking
+## Alex's Mac Hacking Recipe
 
 <ul>
 <li class="fragment roll-in"><strong><font color = 'red'>Find the data</font></strong></li>
@@ -63,12 +63,13 @@ output:
 <li class="fragment roll-in"><strong><font color = 'red'>Visualize the data</font></strong></li>
 </ul>
 
-##<small>A Mac Hack Example</small>
+##<small>An Example <i>Mac Hack</i></small>
 <div class = "fragment roll-in">
-Who was this McGyver guy?
+Who was MacGyver?
+<img src = "images/sak.jpeg", height = "500">
 </div>
 
-## Boom
+##<small>With a Little Imagination and Our SAK, A Word Cloud</small>
 
 ```{r, echo=FALSE,autodep=FALSE,warning=FALSE,tidy=FALSE,cache.comments=FALSE,cache=FALSE,results='hide',include=FALSE}
 macgyver_me <- function(){
@@ -109,19 +110,27 @@ wordcloud(d$word,d$freq, scale=c(4,.2), max.words=300, random.order=FALSE, rot.p
 macgyver_me()
 ```
 
-## Great Escape
+## Classic MacGyver Escape
 
 <iframe  class = 'fragment roll-in'width="640" height="390" src="https://www.youtube.com/embed/LTWEh2mcdsg" frameborder="0" allowfullscreen></iframe>
 
-# <small>Professional Sports, The World's Glue</small>
+# <small><strong><font color = "red">Sports</font></strong> <span class = "fragment roll-in">The World's Glue</span></small>
 
 ## <small>But Why</small>
 <ul>
-<li class="fragment roll-in"><strong><font color = 'red'>Brings People Together</font></strong></li>
+<li class="fragment roll-in"><strong><font color = 'red'>Uniter of People</font></strong></li>
+<li class="fragment roll-in"><strong><font color = 'red'>Giver of Identity</font></strong></li>
+<li class="fragment roll-in"><strong><font color = 'red'>Creator of Role Models</font></strong></li>
+<li class="fragment roll-in"><strong><font color = 'red'>An Experience That Provides Real Drama Without Real Consequences</font></strong></li>
+
+</ul>
+
+
+## <small>Sports and Modern Society</small>
 <li class="fragment roll-in"><strong><font color = 'red'>Experience Enhanced by Technology</font></strong></li>
-<li class="fragment roll-in"><strong><font color = 'red'>Draws the Largest Television Audience</font></strong></li>
-<li class="fragment roll-in"><strong><font color = 'red'>The Largest Proportion of Daily Google and Twitter Trends</font></strong></li>
-<li class="fragment roll-in"><strong><font color = 'blue'><p class = "fragment grow">To Name Just a Few!!</p></font></strong></li>
+<li class="fragment roll-in"><strong><font color = 'red'>Mainstream Media's Biggest Magnet</font></strong></li>
+<li class="fragment roll-in"><strong><font color = 'red'>Center of Social Media Conversation</font></strong></li>
+
 </ul>
 
 
@@ -135,41 +144,41 @@ macgyver_me()
 <img src = "images/DownrightSkeletalAustraliansilkyterrier.gif">
 </div>
 
-##<small>Where Mom's Get This Into Rivalry</small>
+##<small>Where Else Do Mom's Get This Into A Rivalry??</small>
 <div class = "fragment roll-in">
 <img src = "images/LEGOOOOOOOOOO.gif">
 </div>
 
 
-##<small>Where Two Grown Men Can Truly Let Loose and Get Down</small>
+##<small>Or It's Acceptible for Two Grown Men to Get Down Like This?</small>
 <div class = "fragment roll-in">
 <img src = "images/whiteguydance.gif">
 </div>
 
-##<small>Where Superstition Takes On a Life Of It's Own</small>
+##<small>Where Else Does Superstition Take On a Life Of It's Own?</small>
 <div class = "fragment roll-in">
 <img src = "images/manny.gif">
 </div>
 
 
-##<small>Where Magicians Perform Real Magic</small>
+##<small>Or Can a Magician Perform Real Magic</small>
 <div class = "fragment roll-in">
 <img src = "images/messi.gif">
 </div>
 
-##<small>Where David Can Beat Goliath</small>
+##<small>Because Sports Are the Only Place Where David Can Beat Goliath in Front of the Entire World</small>
 
 <div class = "fragment roll-in">
 <img src = "images/go-white-boy_medium.gif">
 </div>
 
-#<small>Let's Look at Some Sports Mac Hacks</small>
+#<small>Now, Let's Look at Some <stron><font color = "red">Sports</font></strong> Mac Hacks</small>
 
-##<small>To Unite the State of .....</small>
+##<small>To Potentially Unite the State of .....</small>
 <iframe  class = 'fragment roll-in' width="700" height="600" src="statebins/index.html" frameborder="0" allowfullscreen></iframe>
 
 
-##<small>NFL O-Line Evolution</small>
+##<small>Explore the Growth of NFL Lineman</small>
 
 ```{r, echo=FALSE,autodep=FALSE,warning=FALSE,tidy=FALSE,cache.comments=FALSE,cache=FALSE,results='hide',include=FALSE}
 tufte_lineman <- 
@@ -258,7 +267,7 @@ p2 <-
 
 p2 <- 
 	p2 +
-	ggtitle("McGyvering NFL Draft Data") +
+	ggtitle("MacGyvering NFL Draft Data") +
 	theme(plot.title=element_text(face="bold",hjust=.15, vjust=-2.0, colour="red",size=24)) +
 	annotate("text", x = 1960, y = 368, label = "Evolution of Offensive Lineman Weight - 1936-2015", size=4, fontface="bold")
 
@@ -276,7 +285,7 @@ return(p2)
 tufte_lineman()
 ```
 
-##<small><font color = "gold">The</font><font color = "blue"> Dress...</font></small>
+##<small>Answer for Good What was the Color of <font color = "gold">The</font><font color = "blue"> Dress...</font></small>
 ```{r, echo=FALSE,autodep=FALSE,warning=FALSE,tidy=FALSE,cache.comments=FALSE,cache=FALSE,results='hide',include=FALSE}
 what_color_really <- function(){
 	library(rPlotter)
@@ -350,7 +359,7 @@ for (i in 1:length(newpal)) {
 what_color_really()
 ```
 
-##<small>Exploring 2013-14 Baseball Doubles</small>
+##<small>Explore Where A Double Is Likely to Fall</small>
 ```{r, echo=FALSE,autodep=FALSE,warning=FALSE,tidy=FALSE,cache.comments=FALSE,cache=FALSE,results='hide',include=FALSE}
 doubles_2014 <- 
 	function(){
@@ -371,7 +380,7 @@ doubles_2014 <-
 				sqrt((x[1] / cos(3 * pi / 4)) ^ 2 - x ^ 2))
 		
 		figure(
-			xgrid = FALSE, ygrid = FALSE, width = 525, height = 525,
+			title = "All 2014 MLB Doubles", xgrid = FALSE, ygrid = FALSE, width = 525, height = 525,
 			xlab = "Horizontal distance from home plate (ft.)",
 			ylab = "Vertical distance from home plate (ft.)"
 		) %>%
@@ -400,7 +409,25 @@ doubles_2014 <-
 doubles_2014()
 ```
 
-##<small>Color Me Excited</small>
+##<small>Examine the Rise of A Titan</small>
+```{r, echo=FALSE,autodep=FALSE,warning=FALSE,tidy=FALSE,cache.comments=FALSE,cache=FALSE,results='hide',include=FALSE}
+some_curry <- function(){
+	packages <-
+			c('dplyr','readr','rbokeh')
+		lapply(packages, library, character.only = T)
+steph <- 
+	read_csv('data/nba/steph.csv')
+figure(xlab = "season", title = "The Evolution of Stephen Curry", ylab = "Points", xgrid = FALSE, ygrid = FALSE, width = 525, height = 525) %>%
+	ly_boxplot(season %>% as.character, pts, data =steph, alpha = 1,fill_color = '#FFCC33', 
+						 line_color = '#04529C')
+	}
+```
+
+```{r, echo=FALSE,message=FALSE, warning=FALSE, fig.width = 8, fig.height = 4.50}
+some_curry()
+```
+
+##<small>Color Me Wise About Swimsuit Colors</small>
 ```{r, echo=FALSE,autodep=FALSE,warning=FALSE,tidy=FALSE,cache.comments=FALSE,cache=FALSE,results='hide',include=FALSE}
 swimsuit_colors <- function(){
 packages <-
@@ -461,3 +488,29 @@ plot
 ```{r, echo=TRUE,message=FALSE, warning=FALSE, fig.width = 8, fig.height = 4.50}
 swimsuit_colors()
 ```
+
+#In Conclusion
+
+##<small>In the Words of Angus Mac</small>
+<blockquote class = 'fragment roll-in'>
+<p><strong><i><font color = "blue">Any problem can be solved with a little ingenuity.</font></i></strong></p>
+</blockquote>
+
+## So Get Ready Because..
+<blockquote class = 'fragment roll-in'>
+<p><strong><i><font color = "red">Another day, a whole 'nother set of possibilities.</font></i></strong></p>
+</blockquote>
+
+<span class = 'fragment roll-in'>
+Get Your SAK's Ready Because It's Time to Mac Hack and...
+<span class="fragment roll-in">We Are <strong><font color = 'red'>Angus</font></strong></span>
+</span>
+
+## Thank You 
+<div class="fragment roll-in">
+<p>Feel Free to <a href = "https://github.com/abresler/si_hackathon">Fork</a> This Presentation and Code on Github</p>
+</div>
+<div class="fragment roll-in">
+<p>Don't hesitate to reach out to me on twitter at <a href = "https://twitter.com/abresler" target ="_blank">abresler</a></p>
+<img src = "images/pink.gif">
+</div>

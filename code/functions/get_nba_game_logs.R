@@ -121,6 +121,7 @@ get_nba_player_game_log_stats <-
 		
 		}
 		results.data %<>% 
-			arrange(game.date)
+			arrange(game.date) %<>% 
+			mutate(season = (id.season %>% substr(1,4) %>% as.numeric) + 1)
 		return(results.data)
 	}
