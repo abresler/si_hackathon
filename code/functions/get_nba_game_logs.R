@@ -6,7 +6,7 @@ get_nba_player_game_log_stats <-
 			c('dplyr', 'magrittr', 'jsonlite', 'stringr', 'tidyr', 'lubridate', 'readr')
 		lapply(packages, library, character.only = T)
 		players <- 
-			read_csv('data/nba/all_player_data.csv')
+			read_csv('https://raw.githubusercontent.com/abresler/si_hackathon/master/data/nba/all_player_data.csv')
 		
 		chosen.player <- 
 			player
