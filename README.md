@@ -1,3 +1,2 @@
-# si_hackathon
-Code and Presentation for 2015 SI Hackathon
-Very much a work in progress!
+# Sports Illustrated Hackathon Presentation, We Are Angus, Learning to Mac Hack
+Code, data, gifs and other stuff for my hopefully enjoyable presentation!
